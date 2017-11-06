@@ -311,6 +311,7 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "e4b30b1f-d970-4ac7-a9a5-62300bf504c1";
 				PROVISIONING_PROFILE_SPECIFIER = "Meirav Mac Development";
+				SDKROOT = "macOs 10.12";
 			};
 			name = Debug;
 		};
@@ -335,6 +336,7 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "e4b30b1f-d970-4ac7-a9a5-62300bf504c1";
 				PROVISIONING_PROFILE_SPECIFIER = "Meirav Mac Development";
+				SDKROOT = "macOs 10.12";
 			};
 			name = Release;
 		};
