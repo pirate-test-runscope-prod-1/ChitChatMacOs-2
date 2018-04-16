@@ -304,7 +304,7 @@
 				INFOPLIST_FILE = WhatsMac/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
 				OTHER_LDFLAGS = "-Wl,-rpath,@loader_path/../Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.openid.pirate.ChitChat;
+				PRODUCT_BUNDLE_IDENTIFIER = de.bowstreet.apps.Frankenstein;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "67618dec-b1d2-49f0-a0f1-d2e59b89036f";
 				PROVISIONING_PROFILE_SPECIFIER = "Runscope Chitchat";
@@ -326,7 +326,7 @@
 				INFOPLIST_FILE = WhatsMac/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
 				OTHER_LDFLAGS = "-Wl,-rpath,@loader_path/../Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.openid.pirate.ChitChat;
+				PRODUCT_BUNDLE_IDENTIFIER = de.bowstreet.apps.Frankenstein;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "67618dec-b1d2-49f0-a0f1-d2e59b89036f";
 				PROVISIONING_PROFILE_SPECIFIER = "Runscope Chitchat";
