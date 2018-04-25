@@ -320,7 +320,7 @@
 				CODE_SIGN_IDENTITY = "Developer ID Application";
 				CODE_SIGN_STYLE = Manual;
 				COMBINE_HIDPI_IMAGES = YES;
-				DEVELOPMENT_TEAM = 29UTQE9JS9;
+				DEVELOPMENT_TEAM = 5Z97G9NZQ6;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					/opt/sparkle,
