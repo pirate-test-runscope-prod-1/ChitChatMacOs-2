@@ -157,7 +157,7 @@
 				TargetAttributes = {
 					223C31941B07B66500E09138 = {
 						CreatedOnToolsVersion = 6.3.1;
-						DevelopmentTeam = 5Z97G9NZQ6;
+						DevelopmentTeam = 285W24646W;
 					};
 				};
 			};
@@ -295,7 +295,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "Mac Developer";
 				COMBINE_HIDPI_IMAGES = YES;
-				DEVELOPMENT_TEAM = 5Z97G9NZQ6;
+				DEVELOPMENT_TEAM = 285W24646W;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					/opt/sparkle,
@@ -304,10 +304,10 @@
 				INFOPLIST_FILE = WhatsMac/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
 				OTHER_LDFLAGS = "-Wl,-rpath,@loader_path/../Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = meirav.de.bowstreet.apps.Frankenstein;
+				PRODUCT_BUNDLE_IDENTIFIER = "v-koand.com.openid.ChitChat";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "6e4bd7fc-6614-453b-9484-3fcf2b057e2f";
-				PROVISIONING_PROFILE_SPECIFIER = "Mac Team Provisioning Profile: meirav.de.bowstreet.apps.Frankenstein";
+				PROVISIONING_PROFILE = "f93423ac-c471-48f5-97ae-19448a2af3d3";
+				PROVISIONING_PROFILE_SPECIFIER = "AppCenter test app macOS ChitChat";
 			};
 			name = Debug;
 		};
@@ -317,7 +317,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "Mac Developer";
 				COMBINE_HIDPI_IMAGES = YES;
-				DEVELOPMENT_TEAM = 5Z97G9NZQ6;
+				DEVELOPMENT_TEAM = 285W24646W;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					/opt/sparkle,
@@ -326,10 +326,10 @@
 				INFOPLIST_FILE = WhatsMac/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
 				OTHER_LDFLAGS = "-Wl,-rpath,@loader_path/../Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = meirav.de.bowstreet.apps.Frankenstein;
+				PRODUCT_BUNDLE_IDENTIFIER = "v-koand.com.openid.ChitChat";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "6e4bd7fc-6614-453b-9484-3fcf2b057e2f";
-				PROVISIONING_PROFILE_SPECIFIER = "Mac Team Provisioning Profile: meirav.de.bowstreet.apps.Frankenstein";
+				PROVISIONING_PROFILE = "f93423ac-c471-48f5-97ae-19448a2af3d3";
+				PROVISIONING_PROFILE_SPECIFIER = "AppCenter test app macOS ChitChat";
 			};
 			name = Release;
 		};
