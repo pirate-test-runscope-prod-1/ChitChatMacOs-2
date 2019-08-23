@@ -157,7 +157,7 @@
 				TargetAttributes = {
 					223C31941B07B66500E09138 = {
 						CreatedOnToolsVersion = 6.3.1;
-						DevelopmentTeam = J5G8J6SG4J;
+						DevelopmentTeam = 5Z97G9NZQ6;
 						ProvisioningStyle = Manual;
 					};
 				};
@@ -297,7 +297,7 @@
 				CODE_SIGN_IDENTITY = "Mac Developer";
 				CODE_SIGN_STYLE = Manual;
 				COMBINE_HIDPI_IMAGES = YES;
-				DEVELOPMENT_TEAM = J5G8J6SG4J;
+				DEVELOPMENT_TEAM = 5Z97G9NZQ6;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					/opt/sparkle,
@@ -319,7 +319,7 @@
 				CODE_SIGN_IDENTITY = "Mac Developer";
 				CODE_SIGN_STYLE = Manual;
 				COMBINE_HIDPI_IMAGES = YES;
-				DEVELOPMENT_TEAM = J5G8J6SG4J;
+				DEVELOPMENT_TEAM = 5Z97G9NZQ6;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					/opt/sparkle,
